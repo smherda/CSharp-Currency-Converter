@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CurrencyConverter</id>
+    <version>1.0.0</version>
+    <authors>CurrencyConverter</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="NUnit" version="3.13.3" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.3" exclude="Build,Analyzers" />
+        <dependency id="System.Data.SQLite" version="1.0.118" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\staci\Downloads\CurrencyConverter\CurrencyConverter\bin\Debug\net6.0\CurrencyConverter.runtimeconfig.json" target="lib\net6.0\CurrencyConverter.runtimeconfig.json" />
+    <file src="C:\Users\staci\Downloads\CurrencyConverter\CurrencyConverter\bin\Debug\net6.0\CurrencyConverter.dll" target="lib\net6.0\CurrencyConverter.dll" />
+  </files>
+</package>
