@@ -1,7 +1,7 @@
 # Programming Exercise
 This repository contains code created and published as a part of the HRL programming exercise. 
 
-The directory marked "CurrencyConverterSln" contains the files used for creating the C# console application. 
+The directory marked "CurrencyConverterSln" contains the project solution files used for creating the C# console application. 
 
 The "CurrencyConverterPublished" directory contains the published code output from Visual Studio.  
 
