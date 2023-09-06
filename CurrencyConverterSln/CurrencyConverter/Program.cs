@@ -68,9 +68,6 @@ class CurrencyConverter
     // Method to Create Database and Currency Table
     static void CreateDatabaseAndTable()
     {
-        // Decalre ConnectionString
-        string ConnectionString = "Data Source=CurrencyDatabase.db;Version=3;";
-
         // If File Exists from Previous Run, Remove
         if (File.Exists("CurrencyDatabase.db"))
         {
