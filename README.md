@@ -1,4 +1,4 @@
-# Programming Exercise
+# C# Currency Converter
 This repository contains code created and published as a part of a C# programming exercise. 
 
 The directory marked "CurrencyConverterSln" contains the project solution files used for creating the C# console application. 
